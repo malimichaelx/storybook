@@ -1,0 +1,10 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "scripts": {
+    "storybook": "start-storybook -p $PORT"
+  },
+  "dependencies": {
+    "@storybook/react": "^6.4.4"
+  }
+}
