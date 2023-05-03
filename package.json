@@ -2,7 +2,7 @@
   "name": "storybook",
   "version": "1.0.0",
   "scripts": {
-    "storybook": "start-storybook -p 3000"
+    "storybook": "start-storybook --port 3000"
   },
   "dependencies": {
     "@storybook/react": "^6.4.4"
